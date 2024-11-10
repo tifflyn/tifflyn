@@ -1,6 +1,6 @@
 # PT1LE2
 //Question 7
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 
 int main()
@@ -57,4 +57,4 @@ int main()
 	cout<<"Thank you for using the loyalty points redemption program! ";
 	
 	return 0;
-}*/
+}
