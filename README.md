@@ -8,7 +8,7 @@ I am very passionate about biology without a suitable brain for the subject, but
 
 * 🌍  I'm based in Malaysia, Penang
 * ✉️  You can contact me at [xinyitey1@gmail.com](mailto:xinyitey1@gmail.com)
-* 🚀  I'm currently working on [MyWebsite](http://127.0.0.1:5500/index.html)
+* 🚀  I'm currently working on [MyWebsite](https://tifflyn.github.io/)
 * 🧠  I'm learning Computer Science ( Bioinformatics )
 * 🤝  I'm open to collaborating on Genetics
 * ⚡  Too many hobbies to even talk about, such as indoor exercise, listening true crime podcast, reading... particularly novels with lot's of unexpected plot twist, morally grey characters with dark academia vibes, these have nothing to do with cs, but who knows, maybe we have the same interest.
